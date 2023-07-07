@@ -161,7 +161,11 @@ table {
   ========================================
 */
 
-h1, h3, h4, h5, p {
+h1,
+h3,
+h4,
+h5,
+p {
     margin-bottom: 22px;
 }
 
@@ -179,6 +183,7 @@ h1, h3, h4, h5, p {
 
 .btn-alt {
     border: 1px solid #dfe2e5;
+    padding: 10px 30px;
 }
 
 /*
