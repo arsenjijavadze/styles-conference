@@ -142,7 +142,7 @@ table {
 
 body {
     color: #888;
-    font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
 }
@@ -343,6 +343,7 @@ em {
 .hero {
     line-height: 44px;
     padding: 22px 80px 66px 80px;
+    text-align: center;
 }
 
 .hero h2 {
@@ -381,9 +382,9 @@ p a {
 }
 
 /*
-  ========================================
-  Navigation
-  ========================================
+    ========================================
+    Navigation
+    ========================================
 */
 
 .nav {
