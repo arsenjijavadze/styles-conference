@@ -258,6 +258,7 @@ h5 {
     color: #a9b2b9;
     font-size: 14px;
     font-weight: 400;
+    text-transform: uppercase;
 }
 
 strong {
@@ -305,11 +306,14 @@ em {
 
 .tagline {
     margin: 66px 0 22px 0;
+    text-align: right;
 }
 
 .primary-nav {
     font-size: 14px;
     font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
 }
 
 /*
@@ -355,10 +359,33 @@ em {
     ========================================
 */
 
-.teaser a:hover h3 {
+/* .teasers a:hover h3 {
     color: #a9b2b9;
 }
 
 a {
     color: #648880;
+} */
+
+a {
+    color: #648880;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #a9b2b9;
+}
+
+p a {
+    border-bottom: 1px solid #dfe2e5;
+}
+
+/*
+  ========================================
+  Navigation
+  ========================================
+*/
+
+.nav {
+    text-align: right;
 }
