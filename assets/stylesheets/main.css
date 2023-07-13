@@ -141,6 +141,7 @@ table {
 */
 
 body {
+    background: #293f50;
     color: #888;
     font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
@@ -320,7 +321,7 @@ p a {
     border-top: 4px solid #648880;
     float: left;
     font-size: 48px;
-    font-weight: 100;
+    font-weight: 300;
     letter-spacing: .5px;
     line-height: 44px;
     padding: 40px 0 22px 0;
