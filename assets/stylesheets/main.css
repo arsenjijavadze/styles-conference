@@ -324,6 +324,11 @@ p a {
     padding: 10px 30px;
 }
 
+.btn-alt:hover {
+    background: #fff;
+    color: #648880;
+}
+
 
 
 /*
