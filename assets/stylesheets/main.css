@@ -514,3 +514,14 @@ p a {
 .vanue-map {
     height: 264px;
 }
+
+/*
+    ========================================
+    Register
+    ========================================
+*/
+
+.why-attend {
+    list-style: square;
+    margin: 0 0 22px 30px;
+}
