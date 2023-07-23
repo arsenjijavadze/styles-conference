@@ -566,3 +566,14 @@ textarea {
 .register-group textarea {
     height: 78px;
 }
+
+.btn-default {
+    border: 0;
+    background: #648880;
+    padding: 11px 30px;
+    font-size: 14px;
+}
+
+.btn-default:hover {
+    background: #77a198;
+}
